@@ -2,7 +2,7 @@
 # Hi 👋, I'm Rafael Ienne
 
 - 👀 **I’m interested in** technology, fiction books, weightlifting, TV series...
-- 🌱 **I’m currently learning** HTML, CSS, JavaScript, Algorithm 
+- 🌱 **I’m currently learning** HTML, CSS, JavaScript, Algorithm, Java... 
 - 📫 **How to reach me** rafaelienne4@gmail.com
 
 ## Connect with me:
