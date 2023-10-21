@@ -3,17 +3,40 @@
 
 - 👀 **I’m interested in** technology, fiction books, weightlifting, TV series...
 - 🌱 **I’m currently learning** HTML, CSS, JavaScript, Algorithm, Java... 
-- 📫 **How to reach me** rafaelienne4@gmail.com
 
 ## Connect with me:
 
-[![LinkedIn](https://th.bing.com/th/id/R.7aa25cf24b60d542918c1d024bfa727c?rik=%2bGn97qJG%2bm1tTQ&riu=http%3a%2f%2fwww.iconninja.com%2ffiles%2f491%2f372%2f969%2flinked-in-linkedin-social-icon.png&ehk=nx2GwQcO2WRM6Gr6%2fk1SDZwDF%2bVwacEa%2fTwKh%2bAcAKs%3d&risl=&pid=ImgRaw&r=0)](https://www.linkedin.com/in/rafael-ienne-44b069201/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaelienne4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([rafaelienne4@gmail.com](https://www.linkedin.com/in/rafael-ienne-44b069201/))
 
-## Languages and tools:
 
-[![HTML](https://th.bing.com/th/id/R.8e07c8a9fc38d79ede7963611b0cb8a5?rik=O2qg%2bHMQycd84A&riu=http%3a%2f%2f2.bp.blogspot.com%2f_sDOe5HxTdMk%2fTTsaF4TVIHI%2fAAAAAAAAB-0%2fZTGwww5ZZ2o%2fs1600%2fHTML5_Logo_128.png&ehk=FEsDRgLW4kjUvpiuzs%2bwwqD5lCzaGmflSqKwZvugKpI%3d&risl=&pid=ImgRaw&r=0)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://th.bing.com/th/id/OIP.LA8zcoA1LhFUgwpiVqgQxAAAAA?pid=ImgDet&rs=1)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://linuxfr.org/images/sections/80.png)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+## Technologies I have already engaged:
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/br/java/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/index.php)
+
+## Database
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]([https://www.w3schools.com/c/index.php](https://www.mysql.com/))
+
+## IDE
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org/)
+[![Eclipse](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
+## Office
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
+[![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
+[![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
+
+
+
+
+
+
+
+
 
 
 <!---
