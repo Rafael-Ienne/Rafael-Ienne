@@ -32,7 +32,9 @@
 [![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
 [![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
 
-
+![Rafael-Ienne's Stats](https://github-readme-stats.vercel.app/api?username=Rafael-Ienne&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Rafael-Ienne's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Ienne&theme=vue-dark&hide_border=true)
+![Rafael-Ienne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Ienne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
