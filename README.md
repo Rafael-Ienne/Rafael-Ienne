@@ -19,7 +19,6 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/index.php)
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/brazil/index.html)
 
-
 ## Database
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]([https://www.w3schools.com/c/index.php](https://www.mysql.com/))
 
@@ -36,7 +35,11 @@
 ![Rafael-Ienne's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Ienne&theme=vue-dark&hide_border=true)
 ![Rafael-Ienne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Ienne&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafael-Ienne/Rafael-Ienne/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafael-Ienne/Rafael-Ienne/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafael-Ienne/Rafael-Ienne/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!---
 Rafael-Ienne/Rafael-Ienne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
